@@ -37,6 +37,4 @@ Haz un fork del repositorio.
 Crea una nueva rama para tus cambios.
 Realiza tus modificaciones y envía un pull request.
 Licencia
-Este proyecto es de uso libre. Puedes utilizarlo, modificarlo y distribuirlo bajo los términos de la Licencia MIT.
-
-¡Espero que esto te sirva! Con esta descripción, cualquier persona podrá entender rápidamente cómo funciona el proyecto y cómo utilizarlo. ¡Mucho éxito con el envío! 🎉🚀
+Este proyecto es de uso libre. Puedes utilizarlo, modificarlo y distribuirlo.
